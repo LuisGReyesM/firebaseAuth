@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h2>Iniciar Sesión con cambio</h2>
+      <h2>Iniciar Sesión con cambio en Git y Firebase</h2>
       <input v-model="email" type="email" placeholder="Correo electrónico">
       <input v-model="password" type="password" placeholder="Contraseña">
       <button @click="singIn">Iniciar Sesión</button>
